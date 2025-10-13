@@ -22,5 +22,12 @@
 
 ### Решение
 - Какие сетевые службы в ней разрешены?
+  
 ![alt text](Pictures/Pic01.jpg)
+  
+- Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
+
+  Vsftpd 2.3.4 Backdoor - порт 21 [Backdoor Command Execution (Metasploit)](https://www.exploit-db.com/exploits/17491)
+
+![alt text](Pictures/Pic02.jpg)
   
