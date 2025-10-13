@@ -27,7 +27,10 @@
   
 - Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 
-  Vsftpd 2.3.4 Backdoor - порт 21 [Backdoor Command Execution (Metasploit)](https://www.exploit-db.com/exploits/17491)
+  Vsftpd 2.3.4 Backdoor [Backdoor Command Execution (Metasploit)](https://www.exploit-db.com/exploits/17491)
 
 ![alt text](Pictures/Pic02.jpg)
-  
+
+  PostgreSQL 8.3.6: [Conversion Encoding Remote Denial of Service](https://www.exploit-db.com/exploits/32849)
+
+  PostgreSQL 8.3.6: [Low Cost Function Information Disclosure](https://www.exploit-db.com/exploits/32847)
