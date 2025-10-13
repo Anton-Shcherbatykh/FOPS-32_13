@@ -31,8 +31,24 @@
 
 ![alt text](Pictures/Pic02.jpg)
 
-  PostgreSQL 8.3.6: [Conversion Encoding Remote Denial of Service](https://www.exploit-db.com/exploits/32849)
+PostgreSQL 8.3.6: [Conversion Encoding Remote Denial of Service](https://www.exploit-db.com/exploits/32849)
 
   PostgreSQL 8.3.6: [Low Cost Function Information Disclosure](https://www.exploit-db.com/exploits/32847)
 
   *скрины уже не стал делать*
+  
+### Задание 2
+
+Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
+
+Запишите сеансы сканирования в Wireshark.
+
+Ответьте на следующие вопросы:
+
+- Чем отличаются эти режимы сканирования с точки зрения сетевого трафика?
+
+- Как отвечает сервер?
+- 
+*Приведите ответ в свободной форме.*
+
+  
