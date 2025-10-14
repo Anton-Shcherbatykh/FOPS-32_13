@@ -82,3 +82,11 @@ PostgreSQL 8.3.6: [Conversion Encoding Remote Denial of Service](https://www.exp
 ![alt text](Pictures/Pic012.jpg)
 
 ![alt text](Pictures/Pic011.jpg)
+
+**Режим UDP.**
+
+Отправляет пустой UDP заголовок на каждый порт. Ответ ICMP ошибка о недостижимости порта (тип 3, код 3) - порт закрыт. Другие ICMP ошибки недостижимости - порт фильтруется. После нескольких попыток без ответа - порт открыт|фильтруется. Ответ UDP - порт открыт.
+
+![alt text](Pictures/Pic013.jpg)
+
+![alt text](Pictures/Pic014.jpg)
