@@ -73,5 +73,12 @@ PostgreSQL 8.3.6: [Conversion Encoding Remote Denial of Service](https://www.exp
 
 ![alt text](Pictures/Pic09.jpg)
 
-
 ![alt text](Pictures/Pic010.jpg)
+
+**Режим Xmas.**
+
+Отправляется пакет с флагами FIN/PSH/URG. Ответ RST/ACK - порт закрыт. Если ответа нет - порт открыт|фильтруется.
+
+![alt text](Pictures/Pic012.jpg)
+
+![alt text](Pictures/Pic011.jpg)
