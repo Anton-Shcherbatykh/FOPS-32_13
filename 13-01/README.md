@@ -59,4 +59,10 @@ PostgreSQL 8.3.6: [Conversion Encoding Remote Denial of Service](https://www.exp
 
 ![alt text](Pictures/Pic06.jpg)
 
+**Режим SYN.**
+Отправляется пакет с флагом SYN для установки соединения. Ответ SYN/ACK - порт открыт (После происходит сброс соединения RST). Ответ RST/ACK - порт закрыт.
+![alt text](Pictures/Pic07.jpg)
+
+![alt text](Pictures/Pic08.jpg)
+
   
