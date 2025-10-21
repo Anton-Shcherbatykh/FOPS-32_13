@@ -34,7 +34,14 @@
 ![alt text](Pictures/Pic03.jpg)
 
 Создайте небольшой раздел, например, 100 Мб.
+
 *Создал раздел на весь доп.диск (примерно 1 Гб)*
 ![alt text](Pictures/Pic04.jpg)
 
 ![alt text](Pictures/Pic05.jpg)
+
+Зашифруйте созданный раздел с помощью LUKS.
+
+![alt text](Pictures/Pic06_1.jpg)
+
+![alt text](Pictures/Pic06_2.jpg)
