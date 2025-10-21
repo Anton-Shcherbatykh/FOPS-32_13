@@ -11,6 +11,15 @@
 ### Ответ:
 Добавьте пользователя cryptouser.
 
+![alt text](Pictures/Pic01.jpg)
+
+Добавьте пользователя cryptouser.
+
+![alt text](Pictures/Pic02.jpg)
+
+Зашифруйте домашний каталог пользователя с помощью eCryptfs.
+
+![alt text](Pictures/Pic03.jpg)
 
 ### Задание 2
 Установите поддержку LUKS.
