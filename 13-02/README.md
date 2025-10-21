@@ -13,15 +13,10 @@
 
 ![alt text](Pictures/Pic01.jpg)
 
-Добавьте пользователя cryptouser.
+Добавьте пользователя cryptouser. Зашифруйте домашний каталог пользователя с помощью eCryptfs.
 
 ![alt text](Pictures/Pic02.jpg)
 
-Зашифруйте домашний каталог пользователя с помощью eCryptfs.
-
-![alt text](Pictures/Pic03.jpg)
-
-![alt text](Pictures/Pic04.jpg)
 ### Задание 2
 Установите поддержку LUKS.
 
@@ -30,3 +25,10 @@
 Зашифруйте созданный раздел с помощью LUKS.
 
 В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.
+
+### Ответ:
+Установите поддержку LUKS.
+
+![alt text](Pictures/Pic03.jpg)
+
+![alt text](Pictures/Pic04.jpg)
