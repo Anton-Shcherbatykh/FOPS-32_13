@@ -10,7 +10,7 @@
 
 **sudo nmap -sV < ip-адрес >**
 
-По желанию можете поэкспериментировать с [Опциями](:https://nmap.org/man/ru/man-briefoptions.html.)
+По желанию можете поэкспериментировать с [Опциями](https://nmap.org/man/ru/man-briefoptions.html.)
 
 *В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.*
 
