@@ -83,7 +83,7 @@ Fail2Ban никак не отреагировал.
 ![alt text](Pictures/Pic07_1.jpg)
 ![alt text](Pictures/Pic07_3.jpg)
 
-Содержимое файлов user.txt и pass.txt, созданных на атакующей машине (ОС Kali Linux)
+Содержимое файлов ```user.txt``` и ```pass.txt```, созданных на атакующей машине (ОС Kali Linux)
 
 ![alt text](Pictures/Pic08.jpg)
 ![alt text](Pictures/Pic09.jpg)
