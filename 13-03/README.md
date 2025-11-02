@@ -48,7 +48,7 @@ Suricata определяет то же, что и при сканировани
 **Fail2Ban**
 Fail2Ban никак не отреагировал. 
 
-![alt text](Pictures/Pic05_2.jpg)
+![alt text](Pictures/Pic06.jpg)
 
 ### Задание 2
 Проведите атаку на подбор пароля для службы SSH:
