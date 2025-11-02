@@ -20,3 +20,10 @@
 Установим сетевую связность между двумя ВМ
 
 ![alt text](Pictures/Pic01.jpg)
+
+**sudo nmap -sA 192.168.123.110**
+
+Suricata не реагирует на это сканирование.
+
+![alt text](Pictures/Pic02.jpg)
+
