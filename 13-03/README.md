@@ -64,7 +64,7 @@ Fail2Ban никак не отреагировал.
 открыть файл /etc/fail2ban/jail.conf,
 найти секцию ssh,
 установить enabled в true.
-Дополнительная информация по Fail2Ban:https://putty.org.ru/articles/fail2ban-ssh.html.
+Дополнительная информация по [Fail2Ban](https://putty.org.ru/articles/fail2ban-ssh.html.)
 
 *В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.*
 
